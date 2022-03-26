@@ -1,0 +1,15 @@
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\bin\Debug\net6.0\Teste.exe
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\bin\Debug\net6.0\Teste.deps.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\bin\Debug\net6.0\Teste.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\bin\Debug\net6.0\ref\Teste.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\bin\Debug\net6.0\Teste.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\obj\Debug\net6.0\Teste.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\obj\Debug\net6.0\ref\Teste.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\obj\Debug\net6.0\Teste.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
